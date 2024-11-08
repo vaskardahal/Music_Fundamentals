@@ -4,13 +4,13 @@
 
 ![Image](./images/Circle_of_Fifths.png)
 
-Order of Sharps \
+#### Order of Sharps
 F ==> C ==> G ==> D ==> A ==> E ==> B
 
-Order of Flats - reverse of Order of Sharps \
+#### Order of Flats - reverse of Order of Sharps
 B ==> E ==> A ==> D ==> G==> C ==> F
 
-
+#### Key Signature from Order of Sharps
 Number of Accidentals in Major Scale from Order of Sharps:
 1. $C_{Maj}$ (also C) Scale, as a tonic has no accidental (sharp or flat). All notes in the scale are naturals. 
 2. Moving forward by the fifth degree, the scale of G has 1 accidental. 
