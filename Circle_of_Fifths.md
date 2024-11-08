@@ -10,8 +10,11 @@ Order of Flats - reverse of Order of Sharps
 B ==> E ==> A ==> D ==> G==> C ==> F
 
 
-Number of Sharps in Major Scale from Order of Sharps:
-1. $C_{Maj}$, as a baseline has no sharps (or flats).
-2. Moving forward by the fifth degree, $G_{Maj}$ has 1 sharp/accidental. 
-3. That accidental occurs in the seventh note of the scale, that is as $F_#$. 
-4. 
+Number of Accidentals in Major Scale from Order of Sharps:
+1. $C_{Maj}$ (also C) Scale, as a tonic has no accidental.
+2. Moving forward by the fifth degree, the scale of G has 1 accidental. 
+3. That accidental is introduced on the $7^{th}$ note of the Scale, and it is F#. 
+4. Moving forward by the fifth degree again, the Scale of D has 2 accidentals. 
+	1. The first accidental is the F# itself, retained from the scale of G. 
+	2. The new accidental is introduced again on the $7^{th}$ note of the Scale, and that is C#. 
+5. Thus, for every clockwise movement in the Circle of Fifths, the additional accidental is added to the $7^{th}$ degree of the scale, while retaining all the accidentals of the previous tonic in the circle. 
