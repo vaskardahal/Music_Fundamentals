@@ -5,10 +5,12 @@
 ![Image](./images/Circle_of_Fifths.png)
 
 #### Order of Sharps
-F ==> C ==> G ==> D ==> A ==> E ==> B
+* Notes in clockwise direction of Circle of Fifths
+* F ==> C ==> G ==> D ==> A ==> E ==> B
 
-#### Order of Flats - reverse of Order of Sharps
-B ==> E ==> A ==> D ==> G==> C ==> F
+#### Order of Flats
+* Reverse of Order of Sharps
+* B ==> E ==> A ==> D ==> G==> C ==> F
 
 #### Key Signature from Order of Sharps
 Number of Accidentals in Major Scale from Order of Sharps:
