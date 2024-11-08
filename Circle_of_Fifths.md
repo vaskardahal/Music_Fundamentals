@@ -4,10 +4,10 @@
 
 ![Image](./images/Circle_of_Fifths.png)
 
-Order of Sharps \ 
+Order of Sharps \
 F ==> C ==> G ==> D ==> A ==> E ==> B
 
-Order of Flats - reverse of Order of Sharps \ 
+Order of Flats - reverse of Order of Sharps \
 B ==> E ==> A ==> D ==> G==> C ==> F
 
 
