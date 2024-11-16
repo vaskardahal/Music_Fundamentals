@@ -9,9 +9,8 @@ root[root] --> D2[W] --> D3[W] --> D4[H] --> D5[W] --> D6[W] --> D7[W] --> Octav
 ```
 Let's add circle of Fifths here as well for visibility. 
 
-![Image | 420](./images/Circle_of_Fifths.png)
 
-<div style="text-align:center"><img src="images/Circle_of_Fifths.png" width="400"/></div>
+<p align="center" width="100%" ><img src="images/Circle_of_Fifths.png" width="50%"/></p>
 
 
 | Degree   | I     | II    | III   | IV   | V     | VI    | VII  | O     |
