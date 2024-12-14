@@ -56,3 +56,14 @@
 | Interval Quality |            |     $M3$     |     $M3$     |    $\#5$     |
 | C+               |    $C$     |     $E$      |    $G\#$     |              |
 
+## Suspended Chord
+* Formula: 1 - 2\4 - 5
+* Formed by reducing the 3rd degree note of Major Chord by half a step.
+* The change in tonal quality comes from this change in the note of third degree.
+* It has a gloomy and sad tone. 
+
+| Degree           |     I      |   $III_b$    |      V       |    Total     |
+| ---------------- | :--------: | :----------: | :----------: | :----------: |
+| Interval         | root\tonic | 3 half steps | 4 half steps | 7 half steps |
+| Interval Quality |            |      m3      |      M3      |      P5      |
+| C                |    $C$     |    $E_b$     |     $G$      |              |
